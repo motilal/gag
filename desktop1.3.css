@@ -1,0 +1,117 @@
+body{padding:0;margin:0;}
+
+.header{width:80%;margin:10px auto;text-align:center;font-size:35px;color:#2b4450;}
+.header-title{width:90%;margin:10px auto;text-align:center;font-size:35px;color:#2b4450;}
+.header-title-mobile{display:none;width:90%;margin:10px auto;text-align:center;font-size:35px;color:#2b4450;}
+.header-btn{float:left;position:relative;width:10%;display:block;text-align:center;min-width:60px;}
+.col1{ width:32%;margin:0 5px;display:block;float:left;min-height:400px;height:auto;color:#2b4450;}
+.col-body{width:98%;margin:0 auto; text-align:center; }
+.col2{ width:45%;margin:0 2%;display:block;float:left;min-height:600px;color:#2b4450;}
+.col5{ width:45%;margin:0 2%;display:block;float:left;min-height:600px;color:#2b4450;}
+.col3{ width:76%;display:block;float:left;height:auto;max-height:600px;color:#2b4450;text-align:center;border: solid #FFC800;padding:10px 5px;margin:10 auto;}
+.col3_1{width:16%;margin:0 1%;diplay:block;float:left;}
+
+.col-title{
+    width:100%; 
+    border-bottom: solid #FFC800;
+    font-size:32px;
+    display:inline-block;
+    color:#2b4450;
+    margin-btm:10px;
+    height:60px;
+}
+.col-brand { 
+    text-align: center;
+    display: block;
+    float: left;
+    width: 48%;
+    border: 1px solid #ccc;
+    margin: 1%;
+    border-radius: 12px;
+    height: 50px;
+    overflow: hidden;
+}
+.type{background-color: #FFFFFF;border:#2b4450 solid; color: #2b4450; padding: 32px 50px;text-align: center;text-decoration: none;display: inline-block;margin-top:10px;font-size: 16px;}
+.col-type{width:100%;display:inline-block;height:auto;text-align:center;}
+.col-weight{width:48%;margin:10px auto;text-align:center;display:block;float:left;height:auto;}
+.weight{background-color: #FFFFFF; color: #2b4450;border:#2b4450 solid; padding: 40px 20px;text-align: center;text-decoration: none;display: inline-block;
+        font-size: 16px;}
+.col-quantity{width:100%;display:block;height:auto; margin:20px auto; text-align:center;}
+
+.col-input{width:60%;margin:0;text-align:center; display:block; float:left;}
+.col-submit{margin:10px 10px;;text-align:center;display:block;float:right;height:auto;position:relative;}
+.col-block{background-color:#FFC800;color:#2b4450;padding:10px;display:block; width:40%;text-align:left;margin-top:15px;float:right;margin:20px 0px 0px;position:fix;bottom:0;right:0;min-width:400px;}
+.time-box{height:auto;width:100%;}
+.time{width:98%;diplay:inline-block;padding:5px 0; margin:0 auto;text-align:left;float:left;line-height:1.55;}
+.time-title{width:30%;float:left;display:block; margin:15px 5px;font-size:20px;text-decoration:bold;}
+
+.time-input{width:58%;float:left;display:block; margin:15px 5px;font-size:20px;}
+
+.time-input1 {width:38%;float:left;display:block;}
+.time-input select{width:100%;font-size:20px;}
+.time-input1 select{width:100%;font-size:20px;float:left;}
+.time-input11 {width:5%;float:left;display:block; padding:0 5px;margin-left:1%;margin-right:1%;font-size:15px;} 
+.delivery_note{display:inline-block;background-color:#2b4450; color:#FFC800; width:300px;font-size:12px;width:100%;text-align:left;padding:15px 10px 10px;margin-top:10px;}
+.pi input{width:98%; height:40px;background:white; border:solid #2b4450; margin:10px 0;padding:0 10px;}
+.pi textarea{width:98%; background:white; border:solid #2b4450; margin:10px 0;}
+.col-submit button {
+    background-color: #FFC800;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+}
+
+.col3-line{width:100%;display:inline-block;font-size:18px;margin:10px 20px;}
+.col3-title{width:100%;text-align:left;font-weight:bold;}
+.col3-text{width:100%;text-align:left;}
+.col3-img1{background-image:url("note.png");display:inline-block;float:left;padding:20px;width:100%;height:auto;min-height:150px;}
+
+.col3-img2{display:inline-block;float:left;margin:20px;}
+.col3-img1 img{position:relative;max-width:230px; max-height:250px;display:inline-block;float:left;}
+.col3-img1 span{overflow:hidden;height:auto;margin:5px auto;font-size:20px;color:white;}
+.col3-img2 img{max-width:230px; max-height:250px;display:inline-block;float:right;}
+.col3 .note{max-width:220px; max-height:160px;margin:10px;height:auto;}
+.col3 .gas{max-width:200px;margin:10px 5px;padding-left:20px;}
+.col-4 {width:80%;display:block;height:auto;max-height:600px;color:#2b4450;text-align:center;border: solid #FFC800;padding:10px 15px;margin:10 auto;}
+.col-4-btm{position:relative;width:96%;text-align:center; margin:0 auto; height:auto;display:inline-block;}
+.col-4-btm img{position:relative;display:block;float:right;margin-top:-40px; width:160px;height:120px; margin:right:20px;}
+
+.back-submit{background-color:#2b4450; color:#FFFFFF;border:#2b4450 solid; padding:5px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;}
+.home-btn{width:100px;height:20px;text-decoration:none !important;background:#2b4450;border:solid #FFC800;color:#FFC800;padding:10px;margin:0 auto;text-align:center;display:block;}
+.home-btn:hover{background:#FFC800;border:solid #2b4450;color:#2b4450;padding:10px;margin:0 auto;text-align:center;display:block;}
+
+
+@media screen and (max-width: 1200px) {
+    .col1{width:98%;float:none;min-height:200px;}
+    .col-brand{width:40%;margin:5px 5%;text-align:center;max-width:200px;}
+    .col-title{text-align:center;font-size:25px;padding:5px;height:auto;}
+    .header-title{display:none;}
+    .header-title-mobile{display:inline-block;}
+    .col-type{width:40%;margin:10px;text-align:center;float:left;display:block;height:auto;}
+    .col2{width:98%;}
+    .col3{width:98%;height:auto;}
+    .col3_1{width:98%;height:auto;}
+    .col3-img1{width:40%;}
+    .col3-img2{width:40%;}
+    .header-title{font-size:20px;}
+    .col-block{display:inline-block;;width:96%;margin:0 auto;min-width:0px;padding-left:30px;}
+}
+@media screen and (max-width: 500px) {
+    .col-brand{width:70%;margin:5px 15%;text-align:center;max-width:200px;}
+    .col-block-2{padding-left:10px;}
+    .col-block{font-size:14px;}
+}
+@media screen and (max-width: 400px) {
+    .col1{width:98%;float:none;min-height:200px;}
+    .col-title{font-size:25px;padding:5px;height:auto;margin:0;}
+    .col-type{width:40%;margin:10px;text-align:center;float:left;display:block;height:auto;}
+    .type{padding:20px;}
+    .col2{width:98%;height:auto;}
+    .header-title{font-size:20px;}
+
+
+}
